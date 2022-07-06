@@ -1,1 +1,1 @@
-# stroke-prediction
+# Stroke Prediction - Thinh Le
