@@ -1,4 +1,10 @@
-# Stroke Prediction - (Thinh Le, Jackson Chen, Michael Van Dalen)
+# Stroke Prediction
+
+## Team Members:
+
+- Thinh Le
+- Jackson Chen
+- Michael Van Dalen
 
 ## Data Source: [Link](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
