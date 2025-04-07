@@ -1,9 +1,7 @@
 # Stroke Prediction Study
 
 -   Analyzed datasets of stroke victims to identify patterns that could assist in forecasting future cases.
-
 -   Performed data cleaning and created interactive visualizations using Python, Tableau, and D3.js.
-
 -   [Final report available here.](https://observablehq.com/@c4aa925dada7373c/csci-4210-final-report)
 
 ## About Dataset
